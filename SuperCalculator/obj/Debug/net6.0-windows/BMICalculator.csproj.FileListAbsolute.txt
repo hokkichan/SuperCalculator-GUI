@@ -1,0 +1,17 @@
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.Form1.resources
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.csproj.GenerateResource.cache
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.AssemblyInfo.cs
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\bin\Debug\net6.0-windows\BMICalculator.exe
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\bin\Debug\net6.0-windows\BMICalculator.deps.json
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\bin\Debug\net6.0-windows\BMICalculator.runtimeconfig.json
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\bin\Debug\net6.0-windows\BMICalculator.dll
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\bin\Debug\net6.0-windows\BMICalculator.pdb
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.dll
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\refint\BMICalculator.dll
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.pdb
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\BMICalculator.genruntimeconfig.cache
+C:\Users\hokki\source\repos\BMICalculator\BMICalculator\obj\Debug\net6.0-windows\ref\BMICalculator.dll
